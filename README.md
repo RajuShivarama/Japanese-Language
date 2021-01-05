@@ -7,10 +7,10 @@ To be precise, there are 5 levels of JLPT starting from N5 to N1
 
  - _Initially, familiarize yourself with writing Hiragana and Katakana.
 - _Start Reading Minnano Nihongo N5 book which consists of 25Chapters(Mailnly for vocabulary and Reading)
-- _kanji : .Look and Learn Kanji[1], _Upto 10 chapters_
+- _kanji :  [Look and Learn Kanji][1], _Upto 10 chapters_
  - _Conversation: .Benjiro Japanese[2]
- - _Practice test: .N5 test[10]
- # N4 Level
+ - _Practice test: N5 test[10]
+# N4 Level
 
 - _Start Reading Minnano Nihongo book N4 which is also consists of 25Chapters(Mailnly for vocabulary and Reading)
 - _kanji : .Look and Learn Kanji[1], _Upto 20 chapters_
