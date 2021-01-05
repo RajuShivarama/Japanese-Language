@@ -8,29 +8,29 @@ To be precise, there are 5 levels of JLPT starting from N5 to N1
  - _Initially, familiarize yourself with writing Hiragana and Katakana.
 - _Start Reading Minnano Nihongo N5 book which consists of 25Chapters(Mailnly for vocabulary and Reading)
 - _kanji :  [Look and Learn Kanji][1], _Upto 10 chapters_
- - _Conversation: .Benjiro Japanese[2]
- - _Practice test: N5 test[10]
+ - _Conversation: [Benjiro Japanese][2]
+ - _Practice test: [N5 test][10]
 # N4 Level
 
 - _Start Reading Minnano Nihongo book N4 which is also consists of 25Chapters(Mailnly for vocabulary and Reading)
-- _kanji : .Look and Learn Kanji[1], _Upto 20 chapters_
-- _Reading : .N4 Reading[3]
-- _Conversation: .Benjiro Japanese[2]
-- _Practice test: .N4 test[11]
+- _kanji : [Look and Learn Kanji][1], _Upto 20 chapters_
+- _Reading : [N4 Reading][3]
+- _Conversation: [Benjiro Japanese][2]
+- _Practice test: [N4 test][11]
   
   # N3 Level
 
-- _kanji : .Look and Learn Kanji[1], _upto 32 chapters
+- _kanji : [Look and Learn Kanji][1], _upto 32 chapters
   ## N3 Soumotome Series
-  - _kanji : .N3 Kanji[4]
-  - _vocabulary : .N3 Vocabulary[5]
-  - _grammer : .N3 Grammer[6]
-  - _kanji : .N3 Reading[7]
+  - _kanji : [N3 Kanji][4]
+  - _vocabulary : [N3 Vocabulary][5]
+  - _grammer : [N3 Grammer][6]
+  - _kanji : [N3 Reading][7]
   ## nihongono mori videos
-  - _vocabulary : .N3 Grammer[8]
-  - _grammer : .N3 Grammer[9]
+  - _vocabulary : [N3 Grammer][8]
+  - _grammer : [N3 Grammer][9]
   
-- _Practice test: N3 test[12]
+- _Practice test: [N3 test][12]
 - _Now actually you are in the position of understanding the common sentences, words and listening.Try watching the Terrace House Netflix series which helped me a lot about a normal japanese lives and his course of action throughout the entire day
   
 
