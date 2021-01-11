@@ -1,4 +1,4 @@
-# Japanese-Language
+# Japanese-Learning guide
 
 There are many ways to learn the japanese language but i followed my own path to learn it and i studied as per the JLPT Levels.
 To be precise, there are 5 levels of JLPT starting from N5 to N1
