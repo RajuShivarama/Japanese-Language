@@ -10,6 +10,7 @@ To be precise, there are 5 levels of JLPT starting from N5 to N1
 - _kanji :  [Look and Learn Kanji][1], _Upto 10 chapters_
  - _Conversation: [Benjiro Japanese][2]
  - _Practice test: [N5 test][10]
+ 
 # N4 Level
 
 - _Start Reading Minnano Nihongo book N4 which is also consists of 25Chapters(Mailnly for vocabulary and Reading)
@@ -26,12 +27,13 @@ To be precise, there are 5 levels of JLPT starting from N5 to N1
   - _vocabulary : [N3 Vocabulary][5]
   - _grammer : [N3 Grammer][6]
   - _kanji : [N3 Reading][7]
-  ## nihongono mori videos
-  - _vocabulary : [N3 Grammer][8]
+  ## Nihongonomori videos
+  This channel has a diverse list of japanese lessons ranging from the very basic (JLPT N5 level) up to the very advanced (JLPT N1).
+  - _vocabulary : [N3 Vocabulary][8]
   - _grammer : [N3 Grammer][9]
   
 - _Practice test: [N3 test][12]
-- _Now actually you are in the position of understanding the common sentences, words and listening.Try watching the Terrace House Netflix series which helped me a lot about a normal japanese lives and his course of action throughout the entire day
+- _Now actually you are in the position to understand the common sentences, words and listening.Try watching the Terrace House Netflix series which helped me a lot about to get to know how a normal japanese lives and his course of action throughout the entire day
   
 
   
